@@ -6,12 +6,12 @@ Hi there, I'm <a href="https://www.linkedin.com/in/bhupat-bheda/" target="_blank
 I'm a Full-Stack Web Developer 💻 !
 </h2> 
 
-- 10+ years of experience in software development Life Cycle (SDLC)
+- 12+ years of experience in software development Life Cycle (SDLC)
 - 3+ years of experience as a project manager in various domains such as blockchain, banking, social and educational
 - Developed User Interface (UI) applications and professional web applications using React, AngularJS, Vue.js, HTML, CSS, JavaScript, Ajax, JQuery, Bootstrap, etc.
 - Have in-depth knowledge of databases like MySQL, PostgreSQL, and MongoDB.
 - Can handle all phases of the software development process from the inception to the release and maintenance.
-- Can manage large codebases, knows how to materialize ideas and specs into products.
+- Can manage large codebases, and knows how to materialize ideas and specs into products.
 - Can create an efficient, scalable, testable, and sustainable architecture for web development projects
 - Knows cutting-edge development tools and methodologies, and can quickly adapt to changes.
 - A self-motivated, team player who can lead from the front and deliver on time. Have the ability to work in any programing language by self-learning.
