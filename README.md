@@ -8,13 +8,13 @@ I'm a Full-Stack Web Developer 💻 !
 
 - 12+ years of experience in software development Life Cycle (SDLC)
 - 3+ years of experience as a project manager in various domains such as blockchain, banking, social and educational
-- Developed User Interface (UI) applications and professional web applications using React, AngularJS, Vue.js, HTML, CSS, JavaScript, Ajax, JQuery, Bootstrap, etc.
+- Developed User Interface (UI) applications and professional web applications using React, Python, PHP, NodeJS, AngularJS, Vue.js, HTML, CSS, JavaScript, Ajax, JQuery, Bootstrap, etc.
 - Have in-depth knowledge of databases like MySQL, PostgreSQL, and MongoDB.
 - Can handle all phases of the software development process from the inception to the release and maintenance.
 - Can manage large codebases, and knows how to materialize ideas and specs into products.
 - Can create an efficient, scalable, testable, and sustainable architecture for web development projects
 - Knows cutting-edge development tools and methodologies, and can quickly adapt to changes.
-- A self-motivated, team player who can lead from the front and deliver on time. Have the ability to work in any programing language by self-learning.
+- A self-motivated, team player who can lead from the front and deliver on time. Have the ability to work in any programming language by self-learning.
 
 
 ### 🤝 Connect with me:
@@ -23,7 +23,7 @@ I'm a Full-Stack Web Developer 💻 !
 <a href="https://www.instagram.com/bhupatbheda/"><img align="left" src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="Bhupat | Instagram" width="21px"/></a>
 <a href="https://twitter.com/bhedabhupat"><img align="left" src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" alt="Bhupat | Twitter" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working with Webllisto Technologies Private Limited 
 
