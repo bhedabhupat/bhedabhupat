@@ -25,18 +25,19 @@ I'm a Full-Stack Web Developer 💻 !
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working with Webllisto Technologies Private Limited 
+## 🔭 I'm currently working with Protonshub 
 
-- Handling company's operations | Project Management | Fullstack Web developer
+- Handling company's service delivering | Project Management | Fullstack Web developer
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently exploring
 
-- Blockchain
+- Generative AI Technlogies with Blockchain
 
 
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
+[![JavaScript](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)](https://ra1nbow.xyz?ref=solidity)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://ra1nbow.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
